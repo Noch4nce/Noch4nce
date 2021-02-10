@@ -1,2 +1,2 @@
-<img width="400em" height="200em" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Noch4nce&hide=stars&count_private=true&show_icons=true?count_private=true&theme=react">
-<img width="350em" height="200em" align="right" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noch4nce&layout=compact&langs_count=8&theme=react">
+<img width="400em" height="235em" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Noch4nce&hide=stars&count_private=true&show_icons=true?count_private=true&theme=react">
+<img width="341em" height="203em" align="right" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noch4nce&layout=compact&langs_count=8&theme=react">
