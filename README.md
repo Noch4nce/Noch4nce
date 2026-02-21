@@ -99,7 +99,7 @@ I quickly adapt to new technologies, pay attention to code quality, performance,
 ###
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats-fast.vercel.app/api?username=Noch4nce&hide=stars&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
+  <img height="165px" src="https://github-readme-stats-fast.vercel.app/api?username=Noch4nce&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" alt="Github Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Noch4nce&layout=compact&langs_count=8&theme=react" alt="Github Lnguages" />
 </div>
@@ -108,5 +108,5 @@ I quickly adapt to new technologies, pay attention to code quality, performance,
 
 <div>
   <h3>📫 How to reach Me:</h3>
-  <a href="https://t.me/noch4nce" target="_blank" style="text-decoration: none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="32px" height="22" alt="telegram" /></a><a href="#" target="_blank" style="text-decoration: none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="32px" height="22" alt="gmail" /></a><a href="#" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="32px" height="22" alt="linkedin" /></a>
+  <a href="https://t.me/noch4nce" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="32px" height="22" alt="telegram" /></a><a href="mailto:imcont123@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="32px" height="22" alt="gmail" /></a><a href="https://www.linkedin.com/in/aleksandr-shestakov-909689206/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="32px" height="22" alt="linkedin" /></a>
 </div>
