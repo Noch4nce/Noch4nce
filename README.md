@@ -108,5 +108,5 @@ I quickly adapt to new technologies, pay attention to code quality, performance,
 
 <div>
   <h3>📫 How to reach Me:</h3>
-  <a href="https://t.me/noch4nce" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="32px" height="22" alt="telegram" /></a><a href="mailto:imcont123@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="32px" height="22" alt="gmail" /></a><a href="https://www.linkedin.com/in/aleksandr-shestakov-909689206/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="32px" height="22" alt="linkedin" /></a>
+  <a href="https://t.me/noch4nce" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="32px" height="22" alt="telegram" /></a><a href="mailto:imcont123@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="32px" height="22" alt="gmail" /></a>
 </div>
